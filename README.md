@@ -8,9 +8,10 @@ Profesyonel ve hızlı SEO analiz/yönetim arayüzü.
 * 🛠 **Kolay Kurulum:** Sadece dosyaları sunucunuza atın ve çalıştırın.
 
 ## 🚀 Canlı Önizleme
-[Buraya GitHub Pages linkini gelecek]
+[https://github.com/R00T-B/r001B_Seo]
 
 ## 🛠 Kurulum
 1. Bu depoyu klonlayın: `[[git clone https://github.com/kullaniciadi/r001B_Seo.git](https://github.com/R00T-B/r001B_Seo.git)](https://github.com/R00T-B/r001B_Seo.git)`
 
 2. `index.html` dosyasını tarayıcınızda açın.
+
