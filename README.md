@@ -11,5 +11,6 @@ Profesyonel ve hızlı SEO analiz/yönetim arayüzü.
 [Buraya GitHub Pages linkini gelecek]
 
 ## 🛠 Kurulum
-1. Bu depoyu klonlayın: `git clone https://github.com/kullaniciadi/r001B_Seo.git`
+1. Bu depoyu klonlayın: `[[git clone https://github.com/kullaniciadi/r001B_Seo.git](https://github.com/R00T-B/r001B_Seo.git)](https://github.com/R00T-B/r001B_Seo.git)`
+
 2. `index.html` dosyasını tarayıcınızda açın.
