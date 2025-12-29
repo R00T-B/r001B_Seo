@@ -11,7 +11,8 @@ Profesyonel ve hızlı SEO analiz/yönetim arayüzü.
 [https://github.com/R00T-B/r001B_Seo]
 
 ## 🛠 Kurulum
-1. Bu depoyu klonlayın: `[[git clone https://github.com/kullaniciadi/r001B_Seo.git](https://github.com/R00T-B/r001B_Seo.git)](https://github.com/R00T-B/r001B_Seo.git)`
+1. Bu depoyu klonlayın: `https://github.com/R00T-B/r001B_Seo.git`
 
 2. `index.html` dosyasını tarayıcınızda açın.
+
 
